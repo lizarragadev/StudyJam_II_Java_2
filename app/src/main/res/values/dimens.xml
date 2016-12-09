@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main.ll.margin">8dp</dimen>
+    <dimen name="main.ll.elevation">5dp</dimen>
+    <dimen name="main.tv.titulo.margin">30dp</dimen>
+    <dimen name="main.tv.titulo.size">20sp</dimen>
+
+    <dimen name="main.iv.margintop">30dp</dimen>
+    <dimen name="main.iv.height">110dp</dimen>
+    <dimen name="main.btn.paddingleft">10dp</dimen>
+    <dimen name="main.btn.paddingright">10dp</dimen>
+    <dimen name="main.btn.textsize">17sp</dimen>
+    <dimen name="main.btn.marginright">5dp</dimen>
+    <dimen name="main.btn.marginleft">5dp</dimen>
+
+    <dimen name="main.ll.marginleft">30dp</dimen>
+    <dimen name="main.ll.marginright">30dp</dimen>
+    <dimen name="main.ll.margintop">10dp</dimen>
+    <dimen name="main.ll.marginbottom">30dp</dimen>
+
+    <dimen name="main.et.marginleft">30dp</dimen>
+    <dimen name="main.et.marginright">30dp</dimen>
+
+</resources>

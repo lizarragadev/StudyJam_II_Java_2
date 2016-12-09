@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">StudyJam_II_Java_1</string>
+    <string name="registro.name">Registro</string>
+    
+    <string name="main.tv.irpaginaweb">Ir Pagina Web</string>
+    <string name="main.btn.ingresar">Ingresar</string>
+    <string name="main.btn.registro">Registrar</string>
+
+    <string name="main.et.user">Ingrese su usuario</string>
+    <string name="main.et.pass">Ingrese su contraseña</string>
+
+    <string name="main.et.titulo">GDG Android Bolivia</string>
+
+    <string name="registro.et.nombres">Ingrese sus nombres</string>
+    <string name="registro.et.apellidos">Ingrese sus apellidos</string>
+    <string name="registro.et.correo">Ingrese su correo</string>
+    <string name="registro.et.telefono">Ingrese su telefono</string>
+</resources>
