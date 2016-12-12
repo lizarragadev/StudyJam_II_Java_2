@@ -1,9 +1,41 @@
-*.iml
-.gradle
-/local.properties
-/.idea/workspace.xml
-/.idea/libraries
 .DS_Store
-/build
-/captures
-.externalNativeBuild
+
+# Archivos de la aplicacion creados.
+*.apk
+*.ap_
+
+# Archivos DEX de la VM
+*.dex
+
+# Clases generadas Java
+*.class
+
+# Archivos generados
+bin/
+out/
+gen/
+
+# Librerias usadas en la aplicacion.
+# Pueden adicionarse librerias pero es mejor tener control sobre ellas.
+/libs
+
+
+# Archivos generados automaticamente por el IDE.
+build.xml
+ant.properties
+local.properties
+project.properties
+
+# Archivos de proyectos Eclipse.
+.classpath
+.project
+
+# Archivos de IDEA.
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos Gradle de Construccion.
+.gradle
+build/

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:background="@color/main.background"
     android:orientation="vertical"
-    tools:context="com.miramicodigo.studyjam_ii_java_1.RegistroActivity">
+    tools:context="com.miramicodigo.studyjam_ii_java_2.RegistroActivity">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"

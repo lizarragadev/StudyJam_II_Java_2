@@ -1,4 +1,4 @@
-package com.miramicodigo.studyjam_ii_java_1;
+package com.miramicodigo.studyjam_ii_java_2;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

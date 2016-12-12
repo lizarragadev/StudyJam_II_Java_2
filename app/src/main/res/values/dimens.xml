@@ -21,4 +21,10 @@
     <dimen name="main.et.marginleft">30dp</dimen>
     <dimen name="main.et.marginright">30dp</dimen>
 
+    <dimen name="detalle.et.margin">10dp</dimen>
+    <dimen name="detalle.et.nombre.textsize">30sp</dimen>
+    <dimen name="detalle.et.usuario.textsize">30sp</dimen>
+    <dimen name="detalle.iv.width.height">150dp</dimen>
+
+
 </resources>

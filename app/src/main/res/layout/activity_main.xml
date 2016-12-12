@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     android:background="@color/main.background"
     android:orientation="vertical"
-    tools:context="com.miramicodigo.studyjam_ii_java_1.MainActivity">
+    tools:context="com.miramicodigo.studyjam_ii_java_2.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -75,7 +75,8 @@
                         android:textSize="@dimen/main.btn.textsize"
                         android:paddingLeft="@dimen/main.btn.paddingleft"
                         android:paddingRight="@dimen/main.btn.paddingright"
-                        android:drawableLeft="@drawable/ic_stat_name"/>
+                        android:drawableLeft="@drawable/ic_person_add_white_24dp"
+                        android:onClick="@string/main.onclick.registrar"/>
                     <Button
                         android:layout_width="0dp"
                         android:layout_height="wrap_content"
@@ -87,7 +88,8 @@
                         android:drawableRight="@drawable/ic_ingresar"
                         android:paddingLeft="@dimen/main.btn.paddingleft"
                         android:paddingRight="@dimen/main.btn.paddingright"
-                        android:textColor="@android:color/white" />
+                        android:textColor="@android:color/white"
+                        android:onClick="@string/main.onclick.ingresar"/>
                 </LinearLayout>
                 <TextView
                     android:layout_width="match_parent"
@@ -96,7 +98,8 @@
                     android:gravity="center"
                     android:autoLink="all"
                     android:linksClickable="true"
-                    android:textColor="@color/colorPrimaryDark"/>
+                    android:textColor="@color/colorPrimaryDark"
+                    android:onClick="@string/main.onclick.irpaginaweb"/>
             </LinearLayout>
         </ScrollView>
     </LinearLayout>

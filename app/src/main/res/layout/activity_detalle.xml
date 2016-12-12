@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_detalle"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.miramicodigo.studyjam_ii_java_2.DetalleActivity">
+    <ImageView
+        android:layout_width="@dimen/detalle.iv.width.height"
+        android:layout_height="@dimen/detalle.iv.width.height"
+        android:src="@drawable/ic_person_black_36dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"/>
+    <TextView
+        android:id="@+id/tvNombre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/detalle.et.nombre.textsize"
+        android:layout_margin="@dimen/detalle.et.margin"/>
+    <TextView
+        android:id="@+id/tvApellido"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/detalle.et.nombre.textsize"/>
+    <TextView
+        android:id="@+id/tvUsuario"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textSize="@dimen/detalle.et.usuario.textsize"
+        android:layout_margin="@dimen/detalle.et.margin"/>
+</LinearLayout>
