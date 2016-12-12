@@ -24,6 +24,8 @@ Dentro de Android Studio:
 * Build --> Rebuild Project
 * Run 
 
+Como estamos realizando una simulacion de login, el usuario y password a utilizar son, usuario: gus y password: 12345 (Cuyos pueden cambiarse dentro del archivo MainActivity.java en las variables usuario y password)
+
 Captura
 ---------
 
